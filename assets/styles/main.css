@@ -1,4 +1,7 @@
-body {
+.inline-block{
+    display: inline-block;
+}
 
-background: #00ff00;
+.m-1{
+    margin: 1rem;
 }
